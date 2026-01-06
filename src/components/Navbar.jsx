@@ -41,7 +41,8 @@ const Navbar = () => {
                         <a
                             key={item.name}
                             href={item.href}
-                            className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-slate-700 dark:text-slate-200 hover:text-primary-red transition"
+                            className="flex items-center gap-2 px-3 py-1.5 text-sm font-semibold text-slate-900 dark:text-slate-100 hover:text-primary-red transition"
+
                         >
                             <span className="opacity-80">{item.icon}</span>
                             <span>{item.name}</span>

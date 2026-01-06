@@ -13,7 +13,7 @@ const Certificates = () => {
             org: 'Apna College',
             description: 'Mastered core algorithmic logic, optimization techniques, and high-performance problem-solving patterns.',
             thumbnail: '/cert-prob.jpg',
-            pdf: '/certificates/DSA Apna College.pdf',
+            pdf: '/DSA Apna College.pdf',
             skills: ['DSA', 'Logic', 'Java']
         },
         {
@@ -21,7 +21,7 @@ const Certificates = () => {
             org: 'IBM / Coursera',
             description: 'Advanced data manipulation using Pandas, NumPy, and scientific computing for technical insight extraction.',
             thumbnail: '/cert-data-analysis.jpg',
-            pdf: '/certificates/Data_Analysis_Using_Python.pdf',
+            pdf: '/Data_Analysis_Using_Python.pdf',
             skills: ['Python', 'Pandas', 'EDA']
         },
         {
@@ -29,7 +29,7 @@ const Certificates = () => {
             org: 'Udemy',
             description: 'Comprehensive study of artificial intelligence agents, search methodologies, and stochastic modeling.',
             thumbnail: '/cert-ai.jpg',
-            pdf: '/certificates/Introduction to AI.pdf',
+            pdf: '/Introduction to AI.pdf',
             skills: ['AI', 'Search', 'Logic']
         },
         {
@@ -37,7 +37,7 @@ const Certificates = () => {
             org: 'Udemy',
             description: 'Architecting visual representations of complex datasets to drive data-driven decision making.',
             thumbnail: '/cert-data-viz.jpg',
-            pdf: '/certificates/Data Visualization Udemy.pdf',
+            pdf: '/Data Visualization Udemy.pdf',
             skills: ['Matplotlib', 'Seaborn', 'Viz']
         },
         {
@@ -45,7 +45,7 @@ const Certificates = () => {
             org: 'Udemy',
             description: 'Statistical inference and probabilistic architectures for machine learning models using Python.',
             thumbnail: '/cert-prob.jpg',
-            pdf: '/certificates/Probablistic Modelling Using Python.pdf',
+            pdf: '/Probablistic Modelling Using Python.pdf',
             skills: ['Stats', 'ML', 'Python']
         },
         {
@@ -53,7 +53,7 @@ const Certificates = () => {
             org: 'Workshop',
             description: 'Leveraging LLMs and generative AI tools to optimize development workflows and technical research.',
             thumbnail: '/cert-ai-tools.jpg',
-            pdf: '/certificates/AI Tools Certificate.pdf',
+            pdf: '/AI Tools Certificate.pdf',
             skills: ['LLMs', 'GenAI', 'Productivity']
         }
     ];

@@ -7,7 +7,7 @@ const Experience = () => {
         {
             organization: "IAESTE",
             role: "Local Committee Member",
-            icon: <img src="public\certificates\NEW logo in png white.png" className="w-12 h-12" />,
+            icon: <img src="/NEW logo in png white.png" className="w-12 h-12" />,
             // icon: <Globe className="w-6 h-6" />,
             color: "from-blue-900 to-cyan-900",
             glow: "shadow-blue-500/20",
@@ -22,7 +22,7 @@ const Experience = () => {
         {
             organization: "JECRC Alumni Association",
             role: "General Secretary",
-            icon: <img src="public\certificates\Alumni logo.png" className="w-10 h-10" />,
+            icon: <img src="/Alumni logo.png" className="w-10 h-10" />,
             // icon: <Users className="w-6 h-6" />,
             color: "from-red-500 to-orange-400",
             glow: "shadow-red-500/20",

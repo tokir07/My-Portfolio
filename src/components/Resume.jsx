@@ -38,7 +38,7 @@ const Resume = () => {
 
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 w-full max-w-2xl">
                             <motion.a
-                                href="public\certificates\Tokir_Khan_Resume.pdf"
+                                href="/Tokir_Khan_Resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 whileHover={{ scale: 1.02, y: -5 }}
@@ -53,7 +53,7 @@ const Resume = () => {
                             </motion.a>
 
                             <motion.a
-                                href="public\certificates\Tokir_Khan_Resume.pdf"
+                                href="/Tokir_Khan_Resume.pdf"
                                 download
                                 whileHover={{ scale: 1.02, y: -5 }}
                                 whileTap={{ scale: 0.98 }}

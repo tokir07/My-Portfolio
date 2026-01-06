@@ -96,7 +96,7 @@ const Hero = () => {
                         {/* Profile image container */}
                         <div className="relative rounded-[40px] overflow-hidden border-8 border-white dark:border-gray-950 aspect-square shadow-2xl translate-y-[20px]">
                             <img
-                                src="public\Profile.png"
+                                src="/Profile.png"
                                 alt="Profile"
                                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 scale-110 hover:scale-100"
                                 onError={(e) => {
